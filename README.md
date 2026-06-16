@@ -121,12 +121,6 @@ Transforming raw data into a structured and trustworthy dataset is one of the mo
 
 Successfully converted a messy and unstructured sales dataset into a clean, well-defined, and analysis-ready dataset suitable for reporting and future business analysis.
 
-## Before vs After Data Cleaning
-
-| Before Cleaning | After Cleaning |
-|----------------|----------------|
-| ![]("C:\Users\harsh\Downloads\before_cleaning.jpeg") | ![]("C:\Users\harsh\Downloads\after_cleaning.jpeg") |
-
 ## Author
 
 **Harsh Singh**
